@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ostaszew.ski/v2/pgp/</loc>
+    <lastmod>2017-08-22T12:02:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostaszew.ski/v2/</loc>
+    <lastmod>2017-08-22T12:43:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ostaszew.ski/v2/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ostaszew.ski/v2/</loc>
+    <lastmod>2017-08-22T12:02:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ostaszew.ski/v2/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
