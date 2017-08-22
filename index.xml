@@ -26,11 +26,11 @@
       <pubDate>Tue, 22 Aug 2017 12:43:21 +0200</pubDate>
       
       <guid>https://mefju.github.io/</guid>
-      <description>Redis, solr, Elasticsearch, MongoDB, MySQL
-Python, bash, R, SQL, Golang, Javascript
-Apache, Tomcat, Nginx, Node.js, HAproxy
-Jenkins, Nagios, OP5, monit, Redmine
-web scraping, agile
+      <description>Databases: Elasticsearch, MongoDB, Redis, Solr, MySQL
+Languages: Python, bash, R, Perl, SQL, Golang, Javascript
+Servers: Apache, Varnish, Tomcat, Nginx, Node.js, HAProxy
+Tools: git, Ansible, Docker, Rancher, Jenkins, Nagios, OP5, monit, Redmine, Logstash
+Other: web scraping, Agile
 maciej@ostaszew.ski</description>
     </item>
     
